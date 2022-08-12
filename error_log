@@ -1,0 +1,218 @@
+[25-Jul-2022 22:47:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 2
+[25-Jul-2022 22:47:19 UTC] PHP Notice:  Undefined variable: error in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 5
+[25-Jul-2022 22:47:19 UTC] PHP Notice:  Trying to get property of non-object in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 5
+[25-Jul-2022 22:47:19 UTC] PHP Notice:  Trying to get property of non-object in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 5
+[25-Jul-2022 22:47:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/consul91/public_html/oporfin/form-registro-direccion.php on line 100
+[25-Jul-2022 22:47:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/consul91/public_html/oporfin/form-registro-direccion.php on line 113
+[25-Jul-2022 22:49:16 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:49:16 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:51:44 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:51:44 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:51:50 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:51:50 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:51:51 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:51:51 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:53:45 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'consul91_oporfin'@'localhost' (using password: YES) in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 2
+[25-Jul-2022 22:53:45 UTC] PHP Notice:  Undefined variable: error in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 5
+[25-Jul-2022 22:53:45 UTC] PHP Notice:  Trying to get property of non-object in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 5
+[25-Jul-2022 22:53:45 UTC] PHP Notice:  Trying to get property of non-object in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 5
+[25-Jul-2022 22:53:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/consul91/public_html/oporfin/form-registro-direccion.php on line 100
+[25-Jul-2022 22:53:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/consul91/public_html/oporfin/form-registro-direccion.php on line 113
+[25-Jul-2022 22:54:26 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:54:26 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:57:06 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:57:06 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:57:07 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:57:07 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:13 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:13 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:15 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:15 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:15 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:15 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:16 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:16 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:23 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:23 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:26 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:26 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 22:58:30 UTC] PHP Notice:  Undefined index: sit_laboral in /home/consul91/public_html/oporfin/form-registro-educacion-trabajo.php on line 28
+[25-Jul-2022 23:01:44 UTC] PHP Notice:  Undefined index: tipo_credito in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 17
+[25-Jul-2022 23:02:07 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:02:07 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:03:59 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:03:59 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:07 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:07 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:53 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:53 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:58 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:58 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:59 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:59 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:59 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:04:59 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:05:00 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:05:00 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:05:01 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:05:01 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:06:09 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:06:09 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:06:13 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:06:13 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:07:01 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:07:01 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:07:49 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:07:49 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:07:53 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:07:53 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:08:38 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:08:38 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:09:13 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:09:13 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:09:15 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:09:15 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:13:38 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:13:38 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:13:40 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:13:40 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:15:08 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:15:08 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:15:09 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:15:09 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:15:53 UTC] PHP Notice:  Undefined index: importe in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 14
+[25-Jul-2022 23:15:53 UTC] PHP Notice:  Undefined index: tipo_credito in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 17
+[25-Jul-2022 23:16:43 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:16:43 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:18:24 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:18:24 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:18:34 UTC] PHP Notice:  Undefined index: sit_laboral in /home/consul91/public_html/oporfin/form-registro-educacion-trabajo.php on line 28
+[25-Jul-2022 23:24:42 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:24:42 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:28:37 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:28:37 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:30:18 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:30:18 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:30:23 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:30:23 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:30:24 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:30:24 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:33:51 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:33:51 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:33:56 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:33:56 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php:2
+Stack trace:
+#0 /home/consul91/public_html/oporfin/form-registro-direccion.php(98): require_once()
+#1 {main}
+  thrown in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 2
+[25-Jul-2022 23:37:49 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php:2
+Stack trace:
+#0 /home/consul91/public_html/oporfin/form-registro-direccion.php(98): require_once()
+#1 {main}
+  thrown in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 2
+[25-Jul-2022 23:38:22 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:38:22 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:38:55 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php:2
+Stack trace:
+#0 /home/consul91/public_html/oporfin/form-registro-direccion.php(98): require_once()
+#1 {main}
+  thrown in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 2
+[25-Jul-2022 23:39:01 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php:2
+Stack trace:
+#0 /home/consul91/public_html/oporfin/form-registro-direccion.php(98): require_once()
+#1 {main}
+  thrown in /home/consul91/public_html/oporfin/includes/funciones/bd_conexion.php on line 2
+[25-Jul-2022 23:39:24 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:39:24 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:39:30 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:39:30 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:45:30 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:45:30 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:45:32 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:45:32 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:48:08 UTC] PHP Notice:  Undefined index: tipo_credito in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 17
+[25-Jul-2022 23:48:31 UTC] PHP Notice:  Undefined index: tipo_credito in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 17
+[25-Jul-2022 23:51:25 UTC] PHP Notice:  Undefined index: importe in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 14
+[25-Jul-2022 23:51:25 UTC] PHP Notice:  Undefined index: tipo_credito in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 17
+[25-Jul-2022 23:52:11 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:52:11 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:52:16 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:52:16 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[25-Jul-2022 23:52:22 UTC] PHP Notice:  Undefined index: sit_laboral in /home/consul91/public_html/oporfin/form-registro-educacion-trabajo.php on line 28
+[26-Jul-2022 00:12:58 UTC] PHP Notice:  Undefined index: tipo_credito in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 17
+[26-Jul-2022 00:43:51 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 00:43:51 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 00:44:00 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 00:44:00 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 00:44:25 UTC] PHP Notice:  Undefined index: sit_laboral in /home/consul91/public_html/oporfin/form-registro-educacion-trabajo.php on line 28
+[26-Jul-2022 01:05:40 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 01:05:40 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 01:05:55 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 01:05:55 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 01:06:11 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 01:06:11 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[26-Jul-2022 01:06:11 UTC] PHP Notice:  Undefined index: sit_laboral in /home/consul91/public_html/oporfin/form-registro-educacion-trabajo.php on line 28
+[26-Jul-2022 02:35:23 UTC] PHP Notice:  Undefined index: importe in /home/consul91/public_html/oporfin/enviando.php on line 25
+[26-Jul-2022 02:35:23 UTC] PHP Notice:  Undefined index: tipo_credito in /home/consul91/public_html/oporfin/enviando.php on line 26
+[26-Jul-2022 02:35:23 UTC] PHP Notice:  Undefined index: curp in /home/consul91/public_html/oporfin/enviando.php on line 27
+[26-Jul-2022 02:35:23 UTC] PHP Notice:  Undefined index: motivo in /home/consul91/public_html/oporfin/enviando.php on line 28
+[26-Jul-2022 02:35:26 UTC] PHP Notice:  Undefined index: importe in /home/consul91/public_html/oporfin/enviando.php on line 25
+[26-Jul-2022 02:35:26 UTC] PHP Notice:  Undefined index: tipo_credito in /home/consul91/public_html/oporfin/enviando.php on line 26
+[26-Jul-2022 02:35:26 UTC] PHP Notice:  Undefined index: curp in /home/consul91/public_html/oporfin/enviando.php on line 27
+[26-Jul-2022 02:35:26 UTC] PHP Notice:  Undefined index: motivo in /home/consul91/public_html/oporfin/enviando.php on line 28
+[26-Jul-2022 02:35:26 UTC] PHP Notice:  Undefined index: ingresos in /home/consul91/public_html/oporfin/enviando.php on line 29
+[04-Aug-2022 22:04:34 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[04-Aug-2022 22:04:34 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[04-Aug-2022 22:04:39 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[04-Aug-2022 22:04:39 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[04-Aug-2022 22:04:39 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[04-Aug-2022 22:04:39 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[04-Aug-2022 22:04:40 UTC] PHP Notice:  Undefined index: sit_laboral in /home/consul91/public_html/oporfin/form-registro-educacion-trabajo.php on line 28
+[10-Aug-2022 02:57:03 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 13
+[10-Aug-2022 02:57:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 13
+[10-Aug-2022 23:19:36 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 13
+[10-Aug-2022 23:19:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-nombre.php on line 13
+[10-Aug-2022 23:19:57 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-curp.php on line 9
+[10-Aug-2022 23:19:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-curp.php on line 9
+[10-Aug-2022 23:20:16 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-mail.php on line 9
+[10-Aug-2022 23:20:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-mail.php on line 9
+[10-Aug-2022 23:20:48 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-direccion.php on line 9
+[10-Aug-2022 23:20:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-direccion.php on line 9
+[10-Aug-2022 23:20:49 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[10-Aug-2022 23:20:49 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[10-Aug-2022 23:21:19 UTC] PHP Notice:  Undefined variable: conn in /home/consul91/public_html/oporfin/load.php on line 3
+[10-Aug-2022 23:21:19 UTC] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/consul91/public_html/oporfin/load.php on line 3
+[10-Aug-2022 23:21:41 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-educacion-trabajo.php on line 4
+[10-Aug-2022 23:21:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-educacion-trabajo.php on line 4
+[10-Aug-2022 23:21:41 UTC] PHP Notice:  Undefined index: sit_laboral in /home/consul91/public_html/oporfin/form-registro-educacion-trabajo.php on line 28
+[10-Aug-2022 23:21:50 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-familiar.php on line 7
+[10-Aug-2022 23:21:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-familiar.php on line 7
+[10-Aug-2022 23:21:53 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 6
+[10-Aug-2022 23:21:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/consul91/public_html/oporfin/includes/templates/header.php:82) in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 6
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: nombre in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 7
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: segundo-nombre in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 9
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: apellido-paterno in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 11
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: apellido-materno in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 13
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: curp in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 15
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: num_celular in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 17
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: num_casa in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 19
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: correo in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 21
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: password in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 23
+[10-Aug-2022 23:21:53 UTC] PHP Notice:  Undefined index: notificaciones in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 25
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: vivienda in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 33
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: calle in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 35
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: num_ext in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 37
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: num_int in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 39
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: colonias in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 41
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: estudios in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 43
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: sit_laboral in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 45
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: empresa in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 47
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: anti in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 49
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: industria in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 51
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: pensionado in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 53
+[10-Aug-2022 23:21:54 UTC] PHP Notice:  Undefined index: institución in /home/consul91/public_html/oporfin/form-registro-ingresos.php on line 55
+[10-Aug-2022 23:22:01 UTC] PHP Notice:  Undefined index: importe in /home/consul91/public_html/oporfin/enviando.php on line 25
+[10-Aug-2022 23:22:01 UTC] PHP Notice:  Undefined index: tipo_credito in /home/consul91/public_html/oporfin/enviando.php on line 26
+[10-Aug-2022 23:22:01 UTC] PHP Notice:  Undefined index: curp in /home/consul91/public_html/oporfin/enviando.php on line 27
+[10-Aug-2022 23:22:01 UTC] PHP Notice:  Undefined index: motivo in /home/consul91/public_html/oporfin/enviando.php on line 28
